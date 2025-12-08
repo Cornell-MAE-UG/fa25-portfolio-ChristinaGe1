@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name>
+title: Christina
 ---
 
 ## About Me
@@ -9,8 +9,8 @@ title: <Your Name>
 ![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+ Hi! I’m Christina, a mechanical engineering student at Cornell graduating in December 2026. I love building things that move, break, survive, and actually make sense in the real world. Most of my time is split between designing hardware, machining parts, and figuring out how to make complex systems simpler and more reliable. I’ve interned at TeraDAR, where I worked on thermal hardware and machined over a hundred precision parts, and I’ve spent a lot of late nights in the shop bringing ideas from sketches to functioning prototypes. I’m the kind of engineer who learns by doing testing, iterating, and fixing until everything works the way it should.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+At Cornell, I lead the mechanical subteam on the Electric Vehicle Project Team, where I mentor a group of 20+ engineers and help build hyper-efficient autonomous EVs from the ground up. I’ve worked on everything from pedal assemblies and autonomous braking to battery containment and system integration. I’ve also explored assistive robotics research and designed a feeding-machine prototype that led to both a publication and a patent. Across all of my projects, what really motivates me is creating thoughtful, useful hardware and working with teams who care about quality, curiosity, and doing things the right way.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.
