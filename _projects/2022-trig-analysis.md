@@ -6,4 +6,9 @@ technologies: [Ansys, MATLAB]
 image: /assets/images/Ansys.png
 ---
 
-<embed src="materials final.pdf" type="application/pdf" width="100%" height="600px" />
+<iframe 
+    src="/assets/materials_final.pdf" 
+    width="100%" 
+    height="700px"
+    style="border:none;">
+</iframe>
