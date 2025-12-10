@@ -7,7 +7,7 @@ image: /assets/images/Ansys.png
 ---
 
 <iframe 
-    src="{{ site.baseurl }}/assets/materials_final.pdf" 
+    src="{{ site.baseurl }}assets/materials_final.pdf" 
     width="100%" 
     height="700px"
     style="border:none;">
