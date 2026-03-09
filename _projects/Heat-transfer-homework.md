@@ -1,14 +1,13 @@
 ---
 layout: project
-title: System Dynamics Temperature Control
-description: conrtol of a heater
-technologies: [Open loop: steady state behavior, time constant, frequency response, passive design
-]
-image: /assets/images/heater.png
+title: Heat Transfer Homework
+description: homework assignment #2
+
+image: /assets/images/heat-transfer.jpg
 ---
 
 <iframe 
-    src="/{{ site.baseurl }}assets/Probelm_Set_2_submission.pdf" 
+    src="/{{ site.baseurl }}assets/Problem_Set_2_submission.pdf" 
     width="100%" 
     height="700px"
     style="border:none;">
